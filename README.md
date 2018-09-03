@@ -1,2 +1,2 @@
 # AccountLocalWeather
-Account local Weather.
+local Weather Based on Account Address. 
